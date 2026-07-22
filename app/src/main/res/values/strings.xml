@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="score">Score: %d</string>
+    <string name="word_count">%1$d of %2$d words</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_scored">You scored: %d</string>
+    <string name="exit">EXIT</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="try_again">Try again!</string>
+    <string name="enter_word">Enter your word</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+</resources>

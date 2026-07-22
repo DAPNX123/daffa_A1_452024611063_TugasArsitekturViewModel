@@ -1,0 +1,7 @@
+- [x] Create layout resources (`game_fragment.xml`, `activity_main.xml`)
+- [x] Add missing string resources
+- [x] Update `build.gradle.kts` with `appcompat`, fix `compileSdk` to 37, and sync
+- [x] Update `themes.xml` to Material3
+- [x] Refactor `MainActivity.kt` to host the fragment
+- [x] Verify `GameFragment.kt` compilation
+- [x] Final build and deployment check
